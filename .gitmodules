@@ -3,7 +3,7 @@
 	url = git@github.com:dto-simba/binaryen.git
 [submodule "etc/system-contracts"]
 	path = etc/system-contracts
-	url = git@github.com:dto-simba/2023-03-zksync.git
+	url = git@github.com:dto-simba/era-system-contracts.git
 [submodule "etc/openzeppelin-contracts"]
 	path = etc/openzeppelin-contracts
 	url = git@github.com:dto-simba/era-openzeppelin.git
